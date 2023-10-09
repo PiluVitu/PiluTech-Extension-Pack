@@ -16,7 +16,7 @@ You can author your README using Visual Studio Code. Here are some useful editor
 
 - Para Configurar o vs code
 
-´´´json
+```json
 {
   // Tamanho das fontes dos terminal integrado
   "terminal.integrated.fontSize": 16,
@@ -266,4 +266,4 @@ You can author your README using Visual Studio Code. Here are some useful editor
   "console-ninja.maxLogViewerEntries": 10,
   "workbench.editor.empty.hint": "hidden",
 }
-´´´
+```
