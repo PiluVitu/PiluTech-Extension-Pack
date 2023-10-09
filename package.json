@@ -33,7 +33,8 @@
     "tabnine.tabnine-vscode",
     "christian-kohler.path-intellisense",
     "davidanson.vscode-markdownlint",
-    "eamodio.gitlens"
+    "eamodio.gitlens",
+    "usernamehw.errorlens"
 
   ]
 }
