@@ -1,0 +1,36 @@
+{
+  "name": "pilutech-base-pack",
+  "publisher": "PiluVitu",
+  "keywords": [
+    "pilutech",
+    "starter pack",
+    "pack",
+    "PiluVitu",
+    "PiluDev",
+    "PiluVitu.Dev"
+  ],
+  "displayName": "PiluTech Base Pack",
+  "description": "Extensões Base do PiluTech",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "naumovs.color-highlight",
+    "unthrottled.doki-theme",
+    "miguelsolorio.fluent-icons",
+    "pnp.polacode",
+    "miguelsolorio.symbols",
+    "gruntfuggly.todo-tree",
+    "rangav.vscode-thunder-client",
+    "tldraw-org.tldraw-vscode",
+    "tabnine.tabnine-vscode",
+    "christian-kohler.path-intellisense",
+    "davidanson.vscode-markdownlint",
+    "eamodio.gitlens"
+
+  ]
+}
