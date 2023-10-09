@@ -11,6 +11,9 @@
   ],
   "displayName": "PiluTech Base Pack",
   "description": "Extensões Base do PiluTech",
+  "repository": {
+    "url": "https://github.com/PiluVitu/PiluTech-Extension-Pack"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.83.0"
