@@ -34,6 +34,10 @@
     "christian-kohler.path-intellisense",
     "davidanson.vscode-markdownlint",
     "eamodio.gitlens",
-    "usernamehw.errorlens"
+    "usernamehw.errorlens",
+    "ms-vsliveshare.vsliveshare",
+    "github.codespaces",
+    "streetsidesoftware.code-spell-checker",
+    "streetsidesoftware.code-spell-checker-portuguese-brazilian"
   ]
 }
